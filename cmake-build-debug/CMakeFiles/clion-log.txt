@@ -1,0 +1,4 @@
+"D:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\CLionProjects\junior\3\3.1_arithmetic_relation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CLionProjects/junior/3/3.1_arithmetic_relation/cmake-build-debug
